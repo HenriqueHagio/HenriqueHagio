@@ -1,5 +1,5 @@
 ### Oii me chamo Henrique Hagio 👋
-- 🌱 Estou no momento aprendendo Python
+- 🌱 Estou no momento aprendendo Python e Html
 
 <div align="center">
   <a href="https://github.com/HenriqueHagio">
