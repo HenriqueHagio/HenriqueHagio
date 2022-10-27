@@ -13,5 +13,5 @@
   <img align="center" alt="Jeovs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jeovs-postgreeSQL height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg>
   <img align="center" alt="Jeovs-react height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
-  <img align="center" alt="Jeovs-next height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg>
+  <img align="center" alt="Jeovs-next height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg>
   <img align="right" alt="Yato-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/259530087299416065/958151282969948220/noragami-yato-kawaii.gif">
