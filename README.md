@@ -1,4 +1,4 @@
-### Oii me chamo Henrique Hagio 👋
+### Oii me chamo Henrique Otone 👋
 - 🌱 Estou no momento aprendendo Front-End
 
 <div align="center">
