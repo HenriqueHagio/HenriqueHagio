@@ -1,5 +1,5 @@
 ### Oii me chamo Henrique Otone 👋
-- 🌱 Estou no momento aprendendo Front-End
+
 
 <div align="center">
   <a href="https://github.com/HenriqueHagio">
